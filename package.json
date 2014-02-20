@@ -1,0 +1,8 @@
+{
+  "name": "yields-stop",
+  "description": "Cross-browser .stopPropagation.",
+  "version": "0.0.2",
+  "keywords": [],
+  "dependencies": {},
+  "license": "MIT"
+}
